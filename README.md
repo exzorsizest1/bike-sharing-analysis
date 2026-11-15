@@ -14,7 +14,7 @@ Analisis data penyewaan sepeda (Bike Sharing Dataset, 2011-2012) untuk menjawab 
 Analisis lanjutan: binning suhu dan manual grouping level permintaan harian.
 
 ## Dashboard
-Dashboard interaktif (Streamlit): https://URL-APLIKASI-KAMU.streamlit.app
+Dashboard interaktif (Streamlit): https://bike-sharing-analysis-mvbicwtznpszz2k5vrosrt.streamlit.app/
 
 ## Struktur Folder
 ```
